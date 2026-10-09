@@ -15,8 +15,8 @@ I'm a Chemical Engineer with experience in industrial process operations, water 
 * **Programming:** Python
 * **Application Development:** Kivy, KivyMD
 * **Backend Development:** FastAPI
-* **Databases:** SQLite, postgres
-* **Tools:** Git, GitHub
+* **Databases:** PostgreSQL, SQLite
+* **Tools:** Git, GitHub, Docker
 
 ### 🚀 Featured Projects
 
