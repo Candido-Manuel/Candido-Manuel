@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Cândido Manuel 👋
 
-<!--
-**Candido-Manuel/Candido-Manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Chemical Engineer | Python Developer
 
-Here are some ideas to get you started:
+I'm a Chemical Engineer with experience in industrial process operations, water treatment, and quality monitoring. I'm also developing my skills in Python programming, with a focus on building practical applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Professional Background
+
+* **Chemical Engineering:** Industrial process monitoring, water treatment, and quality control.
+* **Water Treatment:** Experience with ultrafiltration, reverse osmosis, and demineralization processes.
+* **Quality Monitoring:** Monitoring water quality parameters, identifying deviations, and supporting corrective actions.
+
+### 💻 Technology & Development
+
+* **Programming:** Python
+* **Application Development:** Kivy, KivyMD
+* **Backend Development:** FastAPI
+* **Databases:** SQLite, postgres
+* **Tools:** Git, GitHub
+
+### 🚀 Featured Projects
+
+*Selected projects will be showcased here as their documentation and public releases are prepared.*
+
+### 🎯 Current Goals
+
+* Improving my Python programming and software engineering skills.
+* Developing practical applications for real-world problems.
+* Exploring data analysis and the application of technology to industrial processes.
+
+### 🤝 Let's Connect
+
+* GitHub: [@Candido-Manuel](https://github.com/Candido-Manuel)
+
+---
+
+*Always learning, building, and improving.*
