@@ -1,6 +1,6 @@
 # Hi, I'm Cândido Manuel 👋
 
-### Chemical Engineer | Python Developer | Backend Development (FastAPI)
+### Chemical Engineer | Python Developer | Backend Development (FastAPI) | Hydrological & Hydraulic Modeling | Water Quality Simulation
 
 I'm a Chemical Engineer with experience in industrial process operations, water treatment, and quality monitoring. I'm also developing my skills in Python programming, with a focus on building practical applications and solving real-world problems through technology.
 
@@ -17,6 +17,11 @@ I'm a Chemical Engineer with experience in industrial process operations, water 
 * **Backend Development:** FastAPI
 * **Databases:** PostgreSQL, SQLite
 * **Tools:** Git, GitHub, Docker
+* 🌍 Hydrological, Hydraulic & Geospatial Modeling
+
+- Hydrological Simulation: HEC-HMS
+- Hydraulic Modeling and Water Quality Simulation: HEC-RAS
+- Geospatial Analysis: QGIS
 
 ## Featured Projects
 
