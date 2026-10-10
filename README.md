@@ -1,6 +1,6 @@
 # Hi, I'm Cândido Manuel 👋
 
-### Chemical Engineer | Python Developer
+### Chemical Engineer | Python Developer | Backend Development (FastAPI)
 
 I'm a Chemical Engineer with experience in industrial process operations, water treatment, and quality monitoring. I'm also developing my skills in Python programming, with a focus on building practical applications and solving real-world problems through technology.
 
