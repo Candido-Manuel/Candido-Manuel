@@ -9,20 +9,23 @@ I'm a Chemical Engineer with experience in industrial process operations, water 
 * **Chemical Engineering:** Industrial process monitoring, water treatment, and quality control.
 * **Water Treatment:** Experience with ultrafiltration, reverse osmosis, and demineralization processes.
 * **Quality Monitoring:** Monitoring water quality parameters, identifying deviations, and supporting corrective actions.
+* **Hydrological Modeling:** Knowledge of hydrological simulation using HEC-HMS.
+* **Hydraulic Modeling and Water Quality Simulation:** Knowledge of hydraulic modeling and water quality simulation using HEC-RAS.
+* **Geospatial Analysis:** Knowledge of geospatial analysis and mapping using QGIS.
 
 ### 💻 Technology & Development
 
-* **Programming:** Python
-* **Application Development:** Kivy, KivyMD
-* **Backend Development:** FastAPI
-* **Databases:** PostgreSQL, SQLite
-* **Tools:** Git, GitHub, Docker
-* 🌍 Hydrological, Hydraulic & Geospatial Modeling
+- **Programming:** Python
+- **Application Development:** Kivy, KivyMD
+- **Backend Development:** FastAPI
+- **Databases:** PostgreSQL, SQLite
+- **Development Tools:** Git, GitHub, Docker
 
-- Hydrological Simulation: HEC-HMS
-- Hydraulic Modeling and Water Quality Simulation: HEC-RAS
-- Geospatial Analysis: QGIS
+### 🌍 Hydrological, Hydraulic & Geospatial Modeling
 
+- **Hydrological Simulation:** HEC-HMS
+- **Hydraulic Modeling & Water Quality Simulation:** HEC-RAS
+- **Geospatial Analysis:** QGIS
 ## Featured Projects
 
 ### Roda da Diversão
