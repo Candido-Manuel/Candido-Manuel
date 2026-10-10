@@ -33,6 +33,36 @@ An offline desktop point-of-sale application for sales, product management, stoc
 - **Technologies:** Python, Kivy, KivyMD, SQLite, ReportLab
 - [View Project](https://github.com/Candido-Manuel/vendafacil-pos)
 
+## Currently Working On
+
+### Full-Stack Application Development
+
+I am currently developing a full-stack application, expanding my skills in frontend development, backend engineering, database management, API development, and automated testing.
+
+**Technologies and tools:**
+- **Python** — application and backend development.
+- **Kivy & KivyMD** — frontend development and user interface design.
+- **FastAPI** — backend development and RESTful API integration.
+- **PostgreSQL** — relational database management.
+- **SQLAlchemy** — database interaction and ORM.
+- **Alembic** — database schema migrations.
+- **Docker** — application containerization and development environment management.
+- **Pytest** — automated testing and software quality assurance.
+
+**Key development areas:**
+- User account creation and management.
+- User authentication and session management.
+- Frontend-to-backend communication through APIs.
+- Relational database design and data persistence.
+- Asynchronous operations and API integration.
+- Automated testing of application components and API endpoints.
+- Database migrations and application deployment preparation.
+- Separation of application layers and maintainable software architecture.
+
+This project is helping me gain practical experience in building applications that integrate a client-side interface with a backend API and a relational database, while applying software testing and modern development practices.
+
+
+
 ### 🎯 Current Goals
 
 * Improving my Python programming and software engineering skills.
