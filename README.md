@@ -18,9 +18,20 @@ I'm a Chemical Engineer with experience in industrial process operations, water 
 * **Databases:** PostgreSQL, SQLite
 * **Tools:** Git, GitHub, Docker
 
-### 🚀 Featured Projects
+## Featured Projects
 
-*Selected projects will be showcased here as their documentation and public releases are prepared.*
+### Roda da Diversão
+An Android party game developed with Python and Kivy, featuring quizzes, poetry, guessing games, and improvisation challenges.
+
+- **Technologies:** Python, Kivy, KivyMD
+- [View Project](https://github.com/Candido-Manuel/roda-da-diversao)
+- [Get the App on Google Play](https://play.google.com/store/apps/details?id=com.candidomanuel.rodadadiversao)
+
+### VendaFácil POS
+An offline desktop point-of-sale application for sales, product management, stock control, receipt generation, and business performance monitoring.
+
+- **Technologies:** Python, Kivy, KivyMD, SQLite, ReportLab
+- [View Project](https://github.com/Candido-Manuel/vendafacil-pos)
 
 ### 🎯 Current Goals
 
